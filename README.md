@@ -40,3 +40,6 @@ require(["mymodule"], function (mymodule) {
 
 * load your index in the browser. You now have a tested requirejs module that
   you can use in the browser!
+
+## TODO
+- [ ] add dependency injection with [Squire](https://github.com/iammerrick/Squire.js/)
